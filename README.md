@@ -8,7 +8,6 @@ Solution Architect with strong hands-on expertise built on years of **Java** dev
 
 * 🏗️ **Architecture & Cloud**: Specializing in enterprise solutions, microservices, API Management, and cloud-native ecosystems.
 * 📦 **Edge Computing & Logistics**: Experienced in designing distributed architectures deployed directly on-site in logistics warehouses to ensure ultra-low latency and local operational resilience.
-* 📜 **Certification**: **Google Cloud Certified — Professional Cloud Architect**
 * 🛠️ **Background**: Deep roots in backend development (**Java**), with experience in modern frameworks (**Vue.js**) and a strong focus on code quality, dependency security, and automation.
 * 💡 **Mindset**: Naturally curious and always exploring emerging technologies, system design patterns, and engineering standards.
 
