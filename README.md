@@ -16,7 +16,7 @@ Solution Architect with strong hands-on expertise built on years of **Java** dev
 ### 📜 Certifications & Workplace Engagement
 
 * ☁️ **Google Cloud Certified — Professional Cloud Architect**  
-  [![GCP Professional Architect](https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](TON_LIEN_CREDLY)
+  [![GCP Professional Architect](https://img.shields.io/badge/Google_Cloud-Professional_Cloud_Architect-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://www.credly.com/users/laetitia-pasquet)
 
 * ⛑️ **Certified Workplace First Aider (SST — Sauveteur Secouriste du Travail)**  
   ![First Aid](https://img.shields.io/badge/First_Aid_&_Safety-SST_Certified-00875A?style=for-the-badge)  
